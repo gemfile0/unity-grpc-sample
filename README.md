@@ -1,5 +1,5 @@
 # unity-grpc-sample
-This is a sample project for gRPC communication using YetAnotherHttpHandler.
+This is a sample project for gRPC communication using [YetAnotherHttpHandler](https://github.com/Cysharp/YetAnotherHttpHandler) and [protobuf-unity](https://github.com/5argon/protobuf-unity).
 
 ## Unity Version
 The Unity version used is 2022.3.21f1.
