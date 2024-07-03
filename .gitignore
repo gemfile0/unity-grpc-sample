@@ -70,3 +70,5 @@ crashlytics-build.properties
 ServerData/
 /GitExtensions.settings
 
+# Burst Debug Information
+*BurstDebugInformation_DoNotShip*
