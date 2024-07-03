@@ -24,6 +24,6 @@ Fill in the full paths of the following two files included in the project in Edi
         - Grpc.Net.Client
 
 - [protobuf-unity](https://github.com/5argon/protobuf-unity)
-    - NuGetForUnity
+    - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)
         - Google.Protobuf 
     - [Grpc.Tools](https://www.nuget.org/packages/Grpc.Tools/)
