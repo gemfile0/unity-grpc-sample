@@ -12,9 +12,11 @@ Fill in the full paths of the following two files included in the project in Edi
 
 ## Sample Scene Path
 - Assets/UnityGrpcSample/Scenes/SampleScene.unity<br>
-    Press the Play button while a gRPC server, which has registered the same proto file as `Assets/UnityGrpcSample/protos/greet.proto`, is running. The server response will be displayed on ResponseText(TextMeshProUGUI).
+    Press the Play button while a gRPC server, which has registered the same proto file as [`greet.proto`](https://github.com/gemfile0/unity-grpc-sample/blob/main/Assets/UnityGrpcSample/protos/greet.proto), is running. The server response will be displayed on ResponseText(TextMeshProUGUI).
 
-
+## Sample gRPC Server Used
+- https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/grpc/grpc-start?view=aspnetcore-8.0&tabs=visual-studio
+- Or use another implementation from https://grpc.io/docs/languages/
 
 ## Package Dependencies
 - [YetAnotherHttpHandler](https://github.com/Cysharp/YetAnotherHttpHandler)
@@ -27,3 +29,6 @@ Fill in the full paths of the following two files included in the project in Edi
     - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)
         - Google.Protobuf 
     - [Grpc.Tools](https://www.nuget.org/packages/Grpc.Tools/)
+
+
+    
